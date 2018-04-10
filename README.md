@@ -1,5 +1,6 @@
 	Description:
 		Example of simple app for manage users using flask
+
 	utilities:
 		- login validation
 		- session validation
